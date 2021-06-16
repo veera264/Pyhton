@@ -1,4 +1,4 @@
-from threading import Thread
+
 from time import sleep
 print('WELCOME TO BASIC CALCULATOR')
 sleep(1)
